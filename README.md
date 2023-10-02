@@ -24,4 +24,4 @@ To run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/MonProjetCerveletJSP.git
+   git clone https://github.com/codeurzebs/TpClasseSevletJsp.git
