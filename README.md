@@ -1,4 +1,4 @@
-# TpClasseSevletJsp
+# TpClasseSevletJsp || JAVA EE
 
 A simple Java project demonstrating the use of Servlets and JSP for user registration, login, and logout functionality.
 
